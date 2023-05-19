@@ -1,4 +1,11 @@
 Notes for git commands
 
+Note for the .zshrc file. This is created locally and only works in the folder that the file is placed. 
+
 zsh commands to install: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 to uninstall: uninstall_oh_my_zsh
+make an alias: edit the .zshrc file by using the following command nano .zshrc
+Enter the alias e.g:
+alias l='ls -ls-a'
+Press Ctrl + X and then Save.
+To make these changes have affect you then need to run: source .zshrc
