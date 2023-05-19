@@ -1,1 +1,4 @@
 Notes for git commands
+
+zsh commands to install: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+to uninstall: uninstall_oh_my_zsh
