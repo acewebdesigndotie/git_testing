@@ -1,1 +1,2 @@
-alias lss='ls -a' 
+alias lss='ls -a'
+alias z='vim .zshrc 
