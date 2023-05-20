@@ -9,3 +9,4 @@ Enter the alias e.g:
 alias l='ls -ls-a'
 Press Ctrl + X and then Save.
 To make these changes have affect you then need to run: source .zshrc
+notes on vim: use the : plus q to quit. to quit and save : plus w plus q
