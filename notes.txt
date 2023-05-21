@@ -3,7 +3,7 @@ Notes for git commands
 Add or create a branch: 1 git branch check to see what branch you are on. 
 2 create a new branch called test [git branch new-branch]
 3 to enter a branch [git checkout new-branch]
-
+See what changes have been made to a file since the last commit. [git diff filename]
 
 Note for the .zshrc file. This is created locally and only works in the folder that the file is placed. 
 
