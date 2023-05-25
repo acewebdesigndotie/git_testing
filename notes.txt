@@ -1,5 +1,5 @@
 Notes for git commands
-[]command
+[] = command
 Add or create a branch: 1 git branch check to see what branch you are on. 
 2 create a new branch called test [git branch new-branch]
 3 to enter a branch [git checkout new-branch]
