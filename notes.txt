@@ -7,7 +7,7 @@ Add or create a branch: 1 git branch check to see what branch you are on.
 5 To merge a branch [git merge name of branch]
 6 to restore a file use [git checkout HEAD file name] all information in the current file will be lost.
 Note for the .zshrc file. This is created locally and only works in the folder that the file is placed. 
-
+New line.
 zsh commands to install: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 to uninstall: uninstall_oh_my_zsh
 make an alias: edit the .zshrc file by using the following command nano .zshrc
