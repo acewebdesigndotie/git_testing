@@ -6,6 +6,8 @@ Add or create a branch: 1 git branch check to see what branch you are on.
 4 See what changes have been made to a file since the last commit. [git diff filename]
 5 To merge a branch [git merge name of branch]
 6 to restore a file use [git checkout HEAD file name] all information in the current file will be lost.
+To restore a file that has been committed do the following: git checkout commit hash number -- <file>
+ 
 oh my zsh
 Note for the .zshrc file. This is created locally and only works in the folder that the file is placed. 
 New line.
