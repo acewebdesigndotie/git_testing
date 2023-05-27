@@ -8,6 +8,7 @@ Add or create a branch: 1 git branch check to see what branch you are on.
 6 to restore a file use [git checkout HEAD file name] all information in the current file will be lost.
 To restore a file that has been committed do the following: git checkout commit hash number -- <file>
 To view name and email: git config --list
+To check the difference of whats staged but not committed: git diff --staged
 oh my zsh
 Note for the .zshrc file. This is created locally and only works in the folder that the file is placed. 
 New line.
@@ -19,3 +20,5 @@ alias l='ls -ls-a'
 Press Ctrl + X and then Save.
 To make these changes have affect you then need to run: source .zshrc
 notes on vim: use the : plus q to quit. to quit and save : plus w plus q to quit and not save q!
+To turn the spell checker do this :set spell 
+To check a misspelled word press ESC then highlight the word and type z=
