@@ -22,3 +22,4 @@ To make these changes have affect you then need to run: source .zshrc
 notes on vim: use the : plus q to quit. to quit and save : plus w plus q to quit and not save q!
 To turn the spell checker do this :set spell 
 To check a misspelled word press ESC then highlight the word and type z=
+To use vs-code in Github select file and and click on the dot and you are good to go. 
